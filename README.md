@@ -2,7 +2,7 @@
 
 - 😄 I’m sunha1yang
 - 🤔  I’m a Front end developer
-- 🔭 I’m currently working on MeiTuan-DianPing
+- 🔭 I’m currently working on Bytedance
 - 🌱 I’m currently learning serverless
 
 
